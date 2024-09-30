@@ -1,7 +1,6 @@
-# brodin-bell-portfolio
-This repository will outline who I am, the skills I have, and the projects I have completed.
-
 #  **Brodin Bell's Personal Portfolio**
+
+This repository will outline who I am, the skills I have, and the projects I have completed.
 
 ## **Skills**
 
